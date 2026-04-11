@@ -1,0 +1,4 @@
+customtkinter
+neo4j
+Pillow
+matplotlib

@@ -1,0 +1,7 @@
+Username: sufy_expert
+Password: 123
+Full Name: Sufyan Ahmad
+Date of Birth: 2005-12-14
+Contact: 03036135450
+Age: 20
+Diseases: [{"name": "Heart Attack", "cured": false, "tests": [{"name": "Electrocardiogram (ECG)", "status": "pending"}]}]
